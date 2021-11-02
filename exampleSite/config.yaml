@@ -29,6 +29,8 @@ params:
     title: Manage. Deploy.
     # Hero subtitle (optional)
     subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    # Hero subtext (optional)
+    herotext: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     # Button text
     buttontext: Get started
     # Where the main hero button links to
